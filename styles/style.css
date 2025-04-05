@@ -298,6 +298,7 @@ ol {
   overflow: hidden;
   text-overflow: ellipsis;
   max-width: 196px;
+  margin-bottom: 3px;
 }
 
 .content__video-card-description {
